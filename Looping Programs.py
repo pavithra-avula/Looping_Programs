@@ -444,12 +444,3 @@ def f1(a=input("Enter a number:")):
         return False
 print(f1())
 '''
-
-
-
-
-
-
-
-
-
